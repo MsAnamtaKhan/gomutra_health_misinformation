@@ -1,0 +1,98 @@
+The model was (a) first conditioned with
+a 5-transcript sample to steer its
+output before (b) processing all the
+transcripts.
+
+(a) User Instruction:
+Below are a few transcripts from YouTube
+videos that discuss misinformation about
+gomutra (cow urine):
+Transcript 1: [TEXT]
+Transcript 2: [TEXT]
+Transcript 3: [TEXT]
+Transcript 4: [TEXT]
+Transcript 5: [TEXT]
+Carefully review the provided texts and
+complete the following tasks:
+
+Tasks:
+1. Identify all intensifiers in each
+transcript.
+
+Definition of an intensifier: An
+intensifier is a word or a phrase
+specifically used to strengthen,
+exaggerate, or emphasize a claim. It
+is a lexical item that operates as a
+degree modifier on an adjective, an
+adverb, or occasionally a verb
+phrase. It augments the head it
+modifies, without altering the core
+semantic denotation of that head. For
+example, \very" (as in \The food was
+very good"), \strongly" (as in \I
+strongly believe in the power of
+education"), \too" (as in \The person
+was driving too fast\).
+
+2. For each identified intensifier:
+• Quote the exact intensifier.
+• Identify the word it modifies.
+• Indicate its precise position
+within the text (e.g., beginning,
+middle, end of the
+sentence/paragraph).
+• Explain clearly how the intensifier
+amplifies or contributes to
+misinformation about gomutra.
+
+3. Summarize any patterns or common
+techniques observed across the
+transcripts regarding the use of
+intensifiers in promoting
+misinformation
+
+
+(b) User Instruction:
+You are now provided with a document
+containing all the transcripts from
+YouTube videos that discuss
+misinformation about gomutra (cowurine). Carefully review the provided
+texts and complete the following tasks:
+
+Tasks:
+1. Identify all intensifiers in each
+transcript.
+
+Definition of an intensifier: An
+intensifier is a word or a phrase
+specifically used to strengthen,
+exaggerate, or emphasize a claim. It
+is a lexical item that operates as a
+degree modifier on an adjective, an
+adverb, or occasionally a verb
+phrase. It augments the head it
+modifies, without altering the core
+semantic denotation of that head. For
+example, \very" (as in \The food was
+very good"), \strongly" (as in \I
+strongly believe in the power of
+education"), \too" (as in \The person
+was driving too fast\).
+
+2. For each identified intensifier:
+• Quote the exact intensifier.
+• Identify the word it modifies.
+• Indicate its precise position
+within the text (e.g., beginning,
+middle, end of the
+sentence/paragraph).
+• Explain clearly how the intensifier
+amplifies or contributes to
+misinformation about gomutra.
+
+3. Summarize any patterns or common
+techniques observed across the
+transcripts regarding the use of
+intensifiers in promoting
+misinformation
