@@ -1,0 +1,32 @@
+User Instruction:
+You are an expert linguistic annotator
+specializing in traditional, Ayurvedic,
+and religious discourse. Carefully read
+the transcript below (ID:
+transcript
+id).
+Extract ONLY traditional, Ayurvedic,
+mythological, religious, or culturally
+symbolic terms.
+
+Include:
+• Ayurvedic medicines, herbs, or
+therapies (e.g., Triphala,
+Ashwagandha).
+• Mythological or religious references
+(e.g., divine, Sanjeevani, sacred
+cow).
+• Traditional metaphors or culturally
+symbolic phrases (e.g., divine gift,
+Amrit).
+
+Exclude:
+• Modern biomedical, chemical, or
+technical vocabulary.
+• General non-specific terms like
+"healthy" or "pure"
+
+Return ONLY a comma-separated list of
+unique terms (no duplicates, no
+explanations). If none, return ’’.
+Transcript: transcript
