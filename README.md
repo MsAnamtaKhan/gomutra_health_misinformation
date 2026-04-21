@@ -34,6 +34,14 @@ We employed GPT-4o to identify traditional metaphors and scientific terms to ana
 The `f1_evaluator.py` script computes the F1 metric based on True Positives (TP), False Positives (FP), and False Negatives (FN):
 $$F1 = 2 \times \frac{P \times R}{P + R}$$
 
+
+### 3. Inter-Model Agreement (Cohen's Kappa) Evaluation
+Text outputs containing intensifiers were generated using three distinct language models: Gemini, GPT-4o-mini, and DeepSeek. To evaluate the consistency and vocabulary overlap across different models and prompting conditions (Zero-shot vs. Few-shot; Formal vs. Friendly), we computed Cohen's Kappa scores on the extracted lexicon.The kappa_evaluator.py script computes inter-rater agreement using the following standard formulation:
+
+$$\kappa=\frac{p_o-p_e}{1-p_e}$$
+
+Where $p_o$ is the relative observed agreement among models (derived from a binary presence/absence matrix of all unique intensifiers in the corpus), and $p_e$ is the hypothetical probability of chance agreement. Agreement was analyzed pairwise at both the model level (e.g., Gemini vs. GPT-4o-mini) and the condition level (e.g., Formal vs. Friendly), with results mapped to standard interpretative thresholds.
+
 ## Requirements
 * Python 3.8+
 * `youtube-transcript-api`
