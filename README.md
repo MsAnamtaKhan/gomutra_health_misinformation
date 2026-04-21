@@ -17,7 +17,7 @@ The dataset consists of $N=30$ multilingual YouTube transcripts (English, Hindi,
 
 **Ethical Use Constraint:** To comply with platform guidelines and protect user privacy, no Personally Identifiable Information (PII) from viewers or commenters was collected. The aggregated dataset is released **strictly for non-commercial, academic research under an ethical use agreement**. 
 
-*(Note to authors: Add instructions here on how researchers can email you to request the data or link to a data-sharing agreement form).*
+*(Please mail to anamta@umich.edu to get access to data).*
 
 ## Core Evaluation Scripts
 
