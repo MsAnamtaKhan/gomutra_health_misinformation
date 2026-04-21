@@ -9,6 +9,7 @@ This project presents a post-facto Large Language Model (LLM)-assisted discourse
 * `/data`: Information on how to request the dataset (see Data Access below).
 * `/scripts/wer_evaluation`: Code to calculate the Word Error Rate (WER) of the automated transcriptions.
 * `/scripts/f1_evaluation`: Code to calculate Precision, Recall, and F1-scores for LLM-based term extraction.
+* `/scripts/cohens_kappa_analysis`: Code to calculate the inter annotator agreement for intensifiers annotation among the models.
 * `/prompts`: The exact prompt templates used for GPT-4o, Gemini 2.5 Pro, and DeepSeek evaluations.
 
 ## Data Access & Ethical Considerations
