@@ -1,6 +1,6 @@
 # When Cow Urine Cures Constipation on YouTube: Limits of LLMs in Detecting Culture-specific Health Misinformation
 
-This repository contains the code and evaluation scripts for the paper **"Milking the Metaphors: Cultural Obfuscation in Wellness (COW) around Gomutra on YouTube using LLMs"**.
+This repository contains the code and evaluation scripts for the paper **"When Cow Urine Cures Constipation on YouTube: Limits of LLMs in Detecting Culture-specific Health Misinformation"**.
 
 ## Overview
 This project presents a post-facto Large Language Model (LLM)-assisted discourse analysis of YouTube videos promoting and debunking health claims related to *gomutra* (cow urine) in India. It investigates how promotional content blends sacred traditional language with pseudo-scientific claims, creating a rhetorical register that LLMs trained on Western corpora struggle to analyze accurately. 
